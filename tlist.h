@@ -3,6 +3,7 @@
 #include "tnode.h"
 
 // Declaration of class TList
+// All work below was written by Benjamin Zech. Do not steal
 
 template <typename T>
 class TList
