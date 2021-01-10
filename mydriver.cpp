@@ -1,7 +1,6 @@
 /*			Mydriver.cpp
-	Ben Zech ( bz19 )		9/16/2020 at 11:59pm
-	Bob Myers			Assignment 1
-
+	Ben Zech			9/16/2020
+	All work below was written by Benjamin Zech. Do not steal
 */
 #include <iostream>
 #include <string>
