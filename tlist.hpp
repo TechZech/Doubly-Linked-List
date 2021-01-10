@@ -1,6 +1,6 @@
 //--------------tlist.hpp--------------
 //Ben Zech		Due: Monday, September 14th 2020
-//COP4530		Bob Myers
+//All work below was written by Benjamin Zech. Do not steal
 
 using namespace std;
 
